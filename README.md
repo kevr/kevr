@@ -11,7 +11,7 @@ utilities for daily-driver development for the past 15 years or so.
 I work on a few FOSS projects in my free time:
 
 - [aurweb](https://gitlab.archlinux.org/archlinux/aurweb) - Arch User Repository
-- [taskpp](https://gitlab.com/kevr2d2/taskpp) - Task manager written in C++
+- [clock0](https://github.com/kevr/clock0) - Task manager written in C++
 - [sprunge](https://github.com/kevr/sprunge) - CLI sprunge.us pastebin tool
 - [hastebin](https://github.com/kevr/hastebin) - CLI hastebin.com pastebin tool
 - [system76-kbd-led](https://github.com/kevr/system76-kbd-led) - Userspace LED controller for System76 laptops
